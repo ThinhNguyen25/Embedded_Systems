@@ -47,9 +47,8 @@ Motor DC N20:
 - Phải: Kết nối PWMA/AIN1/AIN2
 ```
 *(Để vẽ sơ đồ chuyên nghiệp, sử dụng công cụ Fritzing hoặc Tinkercad. Nguyên lý: Cảm biến TCRT đọc trạng thái binary (đen=0, trắng=1) để tính error; HC-SR04 sử dụng công thức distance = (duration * 0.034)/2 cm; PID tính toán: Output = Kp*Error + Ki*∫Error + Kd*dError/dt.)*
-<img width="1481" height="913" alt="image" src="https://github.com/user-attachments/assets/685842f4-b097-400c-83dd-36b55d3045f1" />
 
-![Sơ đồ chi tiết](schematics.png)
+![Sơ đồ chi tiết](<img width="1481" height="913" alt="image" src="https://github.com/user-attachments/assets/685842f4-b097-400c-83dd-36b55d3045f1" />)
 
 ## Video Kết Quả Thực Tế
 [Video Demo](demo.mp4)  
