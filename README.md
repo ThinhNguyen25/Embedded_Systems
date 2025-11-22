@@ -64,6 +64,6 @@ Qua các thử nghiệm trên đường line dài 5m với các ngã rẽ đa d�
 - **Thuật toán né tránh động**: Chuyển sang quét 360° bằng servo + HC-SR04, áp dụng A* pathfinding để tối ưu đường né thay vì chuỗi lệnh cố định.
 - **Mở rộng AI**: Tích hợp machine learning (TensorFlow Lite) để nhận diện loại vật cản và điều chỉnh hành vi thích ứng.
 
-**Code nguồn đầy đủ** (Arduino C++ với PID và logic né): Xem file `robot.ino` trong repo.  
+**Code nguồn đầy đủ** (Arduino C++ với PID và logic né): Xem file `Do_Line_5Mat_PID.ino` trong repo. Lưu ý 2 Motor DC là 2 loại khác nhau cần hiệu chỉnh lại tốc độ cho phù hợp với dự án của bạn.
 **Hướng dẫn lắp ráp**: Theo sơ đồ trên; bắt đầu bằng kiểm tra wiring qua multimeter.  
 Nhóm 3 CNTT 17-01 – Mời bạn thử nghiệm, cải tiến và chia sẻ kết quả!
