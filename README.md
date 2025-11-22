@@ -53,7 +53,7 @@ Sơ đồ chi tiết:
 <img width="1481" height="913" alt="image" src="https://github.com/user-attachments/assets/685842f4-b097-400c-83dd-36b55d3045f1" />
 
 ## Video Kết Quả Thực Tế
-<img width="336" height="334" alt="image" src="https://github.com/user-attachments/assets/4e66f4bd-4d1c-4e51-9d89-b9f4bd75d68c" />
+<img width="1469" height="678" alt="image" src="https://github.com/user-attachments/assets/f167314a-7e9b-476b-a88a-c042c5d86992" />
 
 *(Quan sát robot xử lý đường line uốn lượn và né vật cản mượt mà trong môi trường thực tế, chứng minh hiệu suất PID và thuật toán tránh.)*
 
