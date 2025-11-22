@@ -1,5 +1,5 @@
 # Robot Dò Line & Né Vật Cản Tự Động (Automatic Line Detection and Obstacle Avoidance Robot)
-<img width="1508" height="1687" alt="image" src="https://github.com/user-attachments/assets/45515511-f6c5-4922-ab16-c264bc850318" />
+<img width="620" height="342" alt="image" src="https://github.com/user-attachments/assets/52660fe4-8db6-4f6e-b6b5-e05e862d1177" />
 
 ### Giới Thiệu
 Hãy tưởng tượng một hệ thống robot thông minh, tự động lướt qua những đường cong ngoằn ngoèo trên bản đồ thử nghiệm, phát hiện và né tránh chướng ngại vật một cách tinh tế, rồi quay trở lại quỹ đạo ban đầu với độ chính xác đáng kinh ngạc. Dự án này không chỉ là một mô hình Arduino đơn giản mà còn là minh chứng sống động cho sức mạnh của thuật toán PID trong điều khiển tự động hóa. Sử dụng mảng cảm biến hồng ngoại TCRT5000 5 LED để dò đường line đen, robot cân bằng hoàn hảo giữa tốc độ và độ chính xác, được điều khiển bởi driver TB6612FNG cho hai motor DC giảm tốc N20, đồng thời tích hợp cảm biến siêu âm HC-SR04 để xử lý tình huống khẩn cấp. Đây là hướng dẫn chi tiết, dễ theo dõi, giúp bạn – từ sinh viên đến kỹ sư – tái tạo và mở rộng dự án một cách dễ dàng.
